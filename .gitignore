@@ -1,0 +1,14 @@
+node_modules/
+.env
+.DS_Store
+dist/
+dist-ssr/
+*.local
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+server/data/db/
+server/data/mongod.log
+*.log
