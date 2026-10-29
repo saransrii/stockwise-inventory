@@ -256,5 +256,3 @@ For quick evaluation and testing, you can use the **One-Click Evaluator Demo Acc
 
 ---
 
-## 🎓 Developed as a Final-Year Project
-StockWise demonstrates full-stack software engineering, database modeling, data visualization, and applied machine-learning integration for supply chain optimization.
